@@ -1,1 +1,78 @@
-# My-first-go-slow
+# My-firstyye.mcwo.com
+git add 
+git commit  -m "my first update 
+git push 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Student Learning Portfolio</title>
+<style>
+body {
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+line-height: 1.6;
+color: #333;
+max-width: 800px;
+margin: 0 auto;
+padding: 20px;
+background-color: #f4f4f9;
+}
+header {
+background: #2c3e50;
+color: #ffffff;
+padding: 1rem;
+text-align: center;
+border-radius: 8px;
+}
+section {
+background: white;
+padding: 20px;
+margin-top: 20px;
+border-radius: 8px;
+box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+h2 {
+color: #2c3e50;
+border-bottom: 2px solid #3498db;
+padding-bottom: 5px;
+}
+.project-card {
+border-left: 5px solid #3498db;
+padding-left: 15px;
+margin: 10px 0;
+}
+</style>
+</head>
+<body>
+
+<header>
+<h1>Computer Science Portfolio</h1>
+<p>Exploring Web Development & Design</p>
+</header>
+
+<section id="about">
+<h2>About This Project</h2>
+<p>This website is a live demonstration of my progress in learning HTML5 and CSS3. I am focusing on responsive design and clean user interfaces.</p>
+</section>
+
+<section id="projects">
+<h2>Learning Milestones</h2>
+<div class="project-card">
+<h3>Module 1: Basic Structure</h3>
+<p>Understanding the DOM and how HTML tags organize content on a page.</p>
+</div>
+<div class="project-card">
+<h3>Module 2: Styling</h3>
+<p>Using CSS to create layouts, manage colors, and improve readability.</p>
+</div>
+</section>
+
+<footer>
+<p style="text-align: center; font-size: 0.8rem; margin-top: 20px;">
+Created for Educational Purposes &copy; 2026
+</p>
+</footer>
+
+</body>
+</html>
